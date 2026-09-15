@@ -1,4 +1,4 @@
 name = "Elroy Mo"
-numbers = {1, 2, 3, 4, 5}
+numbers = {10, 20, 30, 40, 50}
 print("Student: ", name)
 print("Numbers:", numbers)
