@@ -1,4 +1,7 @@
 name = "Elroy Mo"
-numbers = {10, 20, 30, 40, 50}
+numbers = {1, 10, 100, 1000, 10000}
+campus="Boca Raton, Florida"
 print("Student: ", name)
 print("Numbers:", numbers)
+print("Campus:", campus)
+print("Lantern")
